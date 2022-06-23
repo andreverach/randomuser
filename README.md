@@ -1,8 +1,8 @@
 
 # Project RandomUser
 
-Random User aplication, show users list and profiles.
-- [Demo]()
+Random User aplication, show users list and random profile.
+- [Demo](https://comfy-brigadeiros-fcbbe3.netlify.app/home)
 
 ## Tech Stack
 
